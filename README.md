@@ -82,11 +82,11 @@
 ---
 
 ## Publications Highlights
-- [Demystifying black-box deep learning models for COVID-19 detection from chest CT radiographs](https://scholar.google.com/scholar?q=Demystify+the+Black-box+of+Deep+Learning+Models+for+COVID-19+Detection+from+Chest+CT+Radiographs)
-- [Vision transformer and explainable transfer learning for kidney cyst, stone, and tumor detection](https://scholar.google.com/scholar?q=Vision+transformer+and+explainable+transfer+learning+models+for+auto+detection+of+kidney+cyst+stone+and+tumor+from+CT-radiography)
-- [Interpretable diagnosis of non-COVID viral pneumonia and lung opacity via explainable AI](https://scholar.google.com/scholar?q=Interpretable+Differential+Diagnosis+of+Non-COVID+Viral+Pneumonia+Lung+Opacity+and+COVID-19+Using+Transfer+Learning+and+Explainable+AI)
-- [Development of a wearable diaphragmatic breathing assistance device](https://scholar.google.com/scholar?q=Development+of+a+Wearable+Device+for+Assisting+Diaphragmatic+Breathing)
-- [Universal Joint Orthosis for assistive and resistive rehabilitation movement](https://scholar.google.com/scholar?q=Universal+Joint+Orthosis+Assistive+and+Resistive+Movement+Device+for+Astronauts+and+Medical+Rehabilitation)
+- <a href="https://scholar.google.com/scholar?q=Demystify+the+Black-box+of+Deep+Learning+Models+for+COVID-19+Detection+from+Chest+CT+Radiographs" target="_blank" rel="noopener noreferrer">Demystifying black-box deep learning models for COVID-19 detection from chest CT radiographs</a>
+- <a href="https://scholar.google.com/scholar?q=Vision+transformer+and+explainable+transfer+learning+models+for+auto+detection+of+kidney+cyst+stone+and+tumor+from+CT-radiography" target="_blank" rel="noopener noreferrer">Vision transformer and explainable transfer learning for kidney cyst, stone, and tumor detection</a>
+- <a href="https://scholar.google.com/scholar?q=Interpretable+Differential+Diagnosis+of+Non-COVID+Viral+Pneumonia+Lung+Opacity+and+COVID-19+Using+Transfer+Learning+and+Explainable+AI" target="_blank" rel="noopener noreferrer">Interpretable diagnosis of non-COVID viral pneumonia and lung opacity via explainable AI</a>
+- <a href="https://scholar.google.com/scholar?q=Development+of+a+Wearable+Device+for+Assisting+Diaphragmatic+Breathing" target="_blank" rel="noopener noreferrer">Development of a wearable diaphragmatic breathing assistance device</a>
+- <a href="https://scholar.google.com/scholar?q=Universal+Joint+Orthosis+Assistive+and+Resistive+Movement+Device+for+Astronauts+and+Medical+Rehabilitation" target="_blank" rel="noopener noreferrer">Universal Joint Orthosis for assistive and resistive rehabilitation movement</a>
 
 ---
 
