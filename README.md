@@ -72,6 +72,9 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/CT%20and%20PET--CT-Clinical%20Imaging-0f766e?style=for-the-badge" alt="CT PET-CT" />
   <img src="https://img.shields.io/badge/Hugo%20RAS-Robotics%20Operations-1d4ed8?style=for-the-badge" alt="Hugo RAS" />
 </p>
