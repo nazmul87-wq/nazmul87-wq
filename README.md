@@ -82,11 +82,11 @@
 ---
 
 ## Publications Highlights
-- Demystifying black-box deep learning models for COVID-19 detection from chest CT radiographs.
-- Vision transformer and explainable transfer learning for kidney cyst, stone, and tumor detection.
-- Interpretable diagnosis of non-COVID viral pneumonia and lung opacity via explainable AI.
-- Development of a wearable diaphragmatic breathing assistance device.
-- Universal Joint Orthosis for assistive and resistive rehabilitation movement.
+- [Demystifying black-box deep learning models for COVID-19 detection from chest CT radiographs](https://scholar.google.com/scholar?q=Demystify+the+Black-box+of+Deep+Learning+Models+for+COVID-19+Detection+from+Chest+CT+Radiographs)
+- [Vision transformer and explainable transfer learning for kidney cyst, stone, and tumor detection](https://scholar.google.com/scholar?q=Vision+transformer+and+explainable+transfer+learning+models+for+auto+detection+of+kidney+cyst+stone+and+tumor+from+CT-radiography)
+- [Interpretable diagnosis of non-COVID viral pneumonia and lung opacity via explainable AI](https://scholar.google.com/scholar?q=Interpretable+Differential+Diagnosis+of+Non-COVID+Viral+Pneumonia+Lung+Opacity+and+COVID-19+Using+Transfer+Learning+and+Explainable+AI)
+- [Development of a wearable diaphragmatic breathing assistance device](https://scholar.google.com/scholar?q=Development+of+a+Wearable+Device+for+Assisting+Diaphragmatic+Breathing)
+- [Universal Joint Orthosis for assistive and resistive rehabilitation movement](https://scholar.google.com/scholar?q=Universal+Joint+Orthosis+Assistive+and+Resistive+Movement+Device+for+Astronauts+and+Medical+Rehabilitation)
 
 ---
 
@@ -99,6 +99,12 @@
 
 ## Collaboration and Contact
 Open to research collaborations, healthcare AI consulting, and robotics partnerships.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20to-Research%20Collaboration-0a66c2?style=for-the-badge" alt="Open to Research Collaboration" />
+  <img src="https://img.shields.io/badge/Open%20to-Healthcare%20AI%20Consulting-1f6feb?style=for-the-badge" alt="Open to Healthcare AI Consulting" />
+  <img src="https://img.shields.io/badge/Open%20to-Robotics%20Partnerships-2563eb?style=for-the-badge" alt="Open to Robotics Partnerships" />
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nazmul87"><img src="https://img.shields.io/badge/LinkedIn-nazmul87-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
