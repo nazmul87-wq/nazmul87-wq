@@ -3,7 +3,7 @@
 ## PhD Candidate @ Kent State | Robotics • Quantum Sensors • AI • Biomedical Engineering 🤖⚛️ | Ex-Medtronic, Philips & Siemens | Exploring Claude, Codex, Cursor, Gemini & OpenClaw
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=1100&lines=Biomedical+Devices%2C+Robotics%2C+and+Medical+AI;PhD+Researcher+at+Kent+State+University;Building+Practical+AI+for+Healthcare+Systems;Open+to+Research+Collaboration+and+Industry+Projects" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=1100&lines=Biomedical+Devices%2C+Robotics%2C+Quantum+Sensors%2C+and+Medical+AI;PhD+Researcher+at+Kent+State+University;Building+Practical+AI+for+Healthcare+Systems;Open+to+Research+Collaboration+and+Industry+Projects" alt="Typing intro" />
 </p>
 
 <p align="center">
