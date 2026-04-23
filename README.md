@@ -43,7 +43,7 @@ I enjoy building practical systems that connect healthcare, AI, and embedded con
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/nazmul87-wq/nazmul87-wq/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution snake animation" />
+  <img src="https://ghchart.rshah.org/409ba5/nazmul87-wq" alt="GitHub contribution chart" />
 </p>
 
 ---
