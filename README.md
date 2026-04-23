@@ -1,5 +1,7 @@
 # Hi there, I'm Md Nazmul Islam
 
+## PhD Candidate @ Kent State | Robotics • Quantum Sensors • Medical AI 🤖⚛️ | Ex-Medtronic, Philips & Siemens | Exploring Claude, Codex, Cursor, Gemini & OpenClaw
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=1200&lines=PhD+Candidate+%40+Kent+State+%7C+Robotics+%E2%80%A2+Quantum+Sensors+%E2%80%A2+Medical+AI;Ex-Medtronic%2C+Philips+%26+Siemens;Exploring+Claude%2C+Codex%2C+Cursor%2C+Gemini+%26+OpenClaw;Building+AI-powered+Healthcare+%26+Robotics+Systems" alt="Typing intro" />
 </p>
@@ -33,7 +35,7 @@ I enjoy building practical systems that connect healthcare, AI, and embedded con
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazmul87-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nazmul87-wq&theme=radical&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 ---
@@ -41,7 +43,7 @@ I enjoy building practical systems that connect healthcare, AI, and embedded con
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nazmul87-wq/nazmul87-wq/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img src="https://github.com/nazmul87-wq/nazmul87-wq/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution snake animation" />
 </p>
 
 ---
