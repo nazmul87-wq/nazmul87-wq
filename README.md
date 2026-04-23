@@ -35,7 +35,7 @@ I enjoy building practical systems that connect healthcare, AI, and embedded con
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazmul87-wq&theme=radical&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul87-wq&theme=github-dark&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
