@@ -1,11 +1,16 @@
 # Md Nazmul Islam
 
+🌐 **Portfolio:** [nazmulislam-lab.github.io](https://nazmulislam-lab.github.io/)
+
 **PhD Candidate, Mechatronics, Robotics & Automation Engineering — Kent State University**\
 Medical robotics · Quantum sensing · Interpretable clinical AI · Embedded control
 
 <p>
+  <a href="https://nazmulislam-lab.github.io/"><img src="https://img.shields.io/badge/Website-nazmulislam--lab.github.io-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/nazmul87"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://nazmul-research.github.io/"><img src="https://img.shields.io/badge/Website-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://x.com/nzml087"><img src="https://img.shields.io/badge/X-@nzml087-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://scholar.google.com/citations?user=L6BZ7JoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://wa.me/12342829758"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:nazmul87@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Kent%2C%20Ohio-6b7280?style=flat-square&logo=googlemaps&logoColor=white" alt="Kent, Ohio" />
 </p>
@@ -37,9 +42,9 @@ That background shapes my research: I focus on systems that are interpretable, r
 
 | Project | Description |
 |---|---|
-| [multi-agent-system](https://github.com/nazmul87-wq/multi-agent-system) | Multi-agent LLM system (orchestrator, researcher, coders, reviewer, documenter) running on local models with a live dashboard |
-| [passport-photo-studio](https://github.com/nazmul87-wq/passport-photo-studio) | Privacy-first, in-browser tool for producing compliant passport and visa photo sheets |
-| [orca-draw](https://github.com/nazmul87-wq/orca-draw) | Hand-drawn style whiteboard (Vite + rough.js), Excalidraw-compatible, with a one-line installer |
+| [multi-agent-system](https://github.com/nazmulislam-lab/multi-agent-system) | Multi-agent LLM system (orchestrator, researcher, coders, reviewer, documenter) running on local models with a live dashboard |
+| [passport-photo-studio](https://github.com/nazmulislam-lab/passport-photo-studio) | Privacy-first, in-browser tool for producing compliant passport and visa photo sheets |
+| [orca-draw](https://github.com/nazmulislam-lab/orca-draw) | Hand-drawn style whiteboard (Vite + rough.js), Excalidraw-compatible, with a one-line installer |
 
 ## Technical Skills
 
@@ -51,4 +56,4 @@ That background shapes my research: I focus on systems that are interpretable, r
 
 ## Collaboration
 
-I am open to research collaborations, healthcare AI consulting, and robotics partnerships. The best way to reach me is by [email](mailto:nazmul87@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nazmul87).
+I am open to research collaborations, healthcare AI consulting, and robotics partnerships. The best way to reach me is by [email](mailto:nazmul87@gmail.com), [LinkedIn](https://www.linkedin.com/in/nazmul87), [X](https://x.com/nzml087), or through my [website](https://nazmulislam-lab.github.io/).
