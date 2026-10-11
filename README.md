@@ -1,113 +1,54 @@
-# Hi there, I'm Md Nazmul Islam
+# Md Nazmul Islam
 
-## PhD Candidate @ Kent State | Robotics • Quantum Sensors • AI • Biomedical Engineering 🤖⚛️ | Ex-Medtronic, Philips & Siemens | Exploring Claude, Codex, Cursor, Gemini & OpenClaw
+**PhD Candidate, Mechatronics, Robotics & Automation Engineering — Kent State University**\
+Medical robotics · Quantum sensing · Interpretable clinical AI · Embedded control
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=1100&lines=Biomedical+Devices%2C+Robotics%2C+Quantum+Sensors%2C+and+Medical+AI;PhD+Researcher+at+Kent+State+University;Building+Practical+AI+for+Healthcare+Systems;Open+to+Research+Collaboration+and+Industry+Projects" alt="Typing intro" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=nazmul87-wq&style=for-the-badge&color=0e75b6"><img src="https://komarev.com/ghpvc/?username=nazmul87-wq&style=for-the-badge&color=0e75b6" alt="Profile views" /></a>
-  <a href="https://github.com/nazmul87-wq?tab=followers"><img src="https://img.shields.io/github/followers/nazmul87-wq?label=Followers&style=for-the-badge&color=1f6feb" alt="GitHub followers" /></a>
-  <img src="https://img.shields.io/badge/Location-Kent%2C%20Ohio-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
-
-### Professional Snapshot
-- PhD candidate in mechatronics, robotics, and automation engineering at Kent State University.
-- Former field technical specialist and service engineer across Medtronic, Philips, and Siemens.
-- Focused on medical robotics, quantum sensing, embedded control, and interpretable clinical AI.
-
----
-
-## GitHub Dashboard
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nazmul87-wq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=nazmul87-wq&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul87-wq&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul87-wq&theme=github-dark&hide_border=true" alt="GitHub activity graph" />
+<p>
+  <a href="https://www.linkedin.com/in/nazmul87"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nazmul-research.github.io/"><img src="https://img.shields.io/badge/Website-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:nazmul87@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Kent%2C%20Ohio-6b7280?style=flat-square&logo=googlemaps&logoColor=white" alt="Kent, Ohio" />
 </p>
 
 ---
 
-## Featured Work Themes
-### Medical AI for Imaging
-- Built explainable deep learning pipelines for CT image classification and differential diagnosis.
-- Focused on clinically interpretable outputs for radiology decision support.
+## About
 
-### Robotics and Automation
-- Supported deployment, uptime, and field servicing of Hugo robotic systems.
-- Worked on practical robotics operations across clinical environments.
+I am a PhD researcher working at the intersection of robotics, sensing, and machine learning for healthcare. Before graduate school I spent several years in industry as a field technical specialist and service engineer with **Medtronic**, **Philips**, and **Siemens**, supporting clinical imaging systems and the **Hugo™ robotic-assisted surgery** platform in hospital environments.
 
-### Quantum Sensors and Embedded Control
-- Exploring OPM/NV-center directions for healthcare sensing applications.
-- Developing embedded control workflows for intelligent medical systems.
+That background shapes my research: I focus on systems that are interpretable, reliable, and deployable in real clinical settings.
 
----
+## Research Interests
 
-## AI Workflow Stack
-<p align="center">
-  <a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-Reasoning%20and%20Research-111827?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
-  <a href="https://openai.com"><img src="https://img.shields.io/badge/Codex-AI%20Code%20Generation-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" /></a>
-  <a href="https://www.cursor.com"><img src="https://img.shields.io/badge/Cursor-AI%20IDE%20Workflow-1F2937?style=for-the-badge&logoColor=white" alt="Cursor" /></a>
-  <a href="https://deepmind.google/technologies/gemini/"><img src="https://img.shields.io/badge/Gemini-Multimodal%20Exploration-172554?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" /></a>
-  <a href="https://github.com/openclaw"><img src="https://img.shields.io/badge/OpenClaw-Open%20Agent%20Experiments-312E81?style=for-the-badge&logo=github&logoColor=white" alt="OpenClaw" /></a>
-  <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-Local%20LLM%20Pipelines-111827?style=for-the-badge&logoColor=white" alt="Ollama" /></a>
-</p>
+- **Medical AI for imaging** — explainable deep learning for CT classification and differential diagnosis, built for radiology decision support.
+- **Medical robotics** — deployment, uptime, and operation of surgical robotic systems in clinical environments.
+- **Quantum sensing** — OPM and NV-center approaches to biomedical signal detection.
+- **Embedded control** — control workflows for intelligent medical devices.
 
----
+## Selected Publications
 
-## Skills and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,arduino,git,github,vscode,linux,tensorflow" alt="Skills" />
-</p>
+1. [Demystify the Black-box of Deep Learning Models for COVID-19 Detection from Chest CT Radiographs](https://scholar.google.com/scholar?q=Demystify+the+Black-box+of+Deep+Learning+Models+for+COVID-19+Detection+from+Chest+CT+Radiographs)
+2. [Vision Transformer and Explainable Transfer Learning Models for Auto Detection of Kidney Cyst, Stone and Tumor from CT-Radiography](https://doi.org/10.1038/s41598-022-15634-4) — *Scientific Reports*, 2022
+3. [Interpretable Differential Diagnosis of Non-COVID Viral Pneumonia, Lung Opacity and COVID-19 Using Tuned Transfer Learning and Explainable AI](https://doi.org/10.3390/healthcare11030410) — *Healthcare* (MDPI), 2023
+4. [Development of a Wearable Device for Assisting Diaphragmatic Breathing](https://scholar.google.com/scholar?q=Development+of+a+Wearable+Device+for+Assisting+Diaphragmatic+Breathing)
+5. [Universal Joint Orthosis: Assistive and Resistive Movement Device for Astronauts and Medical Rehabilitation](https://scholar.google.com/scholar?q=Universal+Joint+Orthosis+Assistive+and+Resistive+Movement+Device+for+Astronauts+and+Medical+Rehabilitation)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-</p>
+## Featured Projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/CT%20and%20PET--CT-Clinical%20Imaging-0f766e?style=for-the-badge" alt="CT PET-CT" />
-  <img src="https://img.shields.io/badge/Hugo%20RAS-Robotics%20Operations-1d4ed8?style=for-the-badge" alt="Hugo RAS" />
-</p>
+| Project | Description |
+|---|---|
+| [multi-agent-system](https://github.com/nazmul87-wq/multi-agent-system) | Multi-agent LLM system (orchestrator, researcher, coders, reviewer, documenter) running on local models with a live dashboard |
+| [passport-photo-studio](https://github.com/nazmul87-wq/passport-photo-studio) | Privacy-first, in-browser tool for producing compliant passport and visa photo sheets |
+| [orca-draw](https://github.com/nazmul87-wq/orca-draw) | Hand-drawn style whiteboard (Vite + rough.js), Excalidraw-compatible, with a one-line installer |
 
----
+## Technical Skills
 
-## Publications Highlights
-- <a href="https://scholar.google.com/scholar?q=Demystify+the+Black-box+of+Deep+Learning+Models+for+COVID-19+Detection+from+Chest+CT+Radiographs" target="_blank" rel="noopener noreferrer">Demystifying black-box deep learning models for COVID-19 detection from chest CT radiographs</a>
-- <a href="https://scholar.google.com/scholar?q=Vision+transformer+and+explainable+transfer+learning+models+for+auto+detection+of+kidney+cyst+stone+and+tumor+from+CT-radiography" target="_blank" rel="noopener noreferrer">Vision transformer and explainable transfer learning for kidney cyst, stone, and tumor detection</a>
-- <a href="https://scholar.google.com/scholar?q=Interpretable+Differential+Diagnosis+of+Non-COVID+Viral+Pneumonia+Lung+Opacity+and+COVID-19+Using+Transfer+Learning+and+Explainable+AI" target="_blank" rel="noopener noreferrer">Interpretable diagnosis of non-COVID viral pneumonia and lung opacity via explainable AI</a>
-- <a href="https://scholar.google.com/scholar?q=Development+of+a+Wearable+Device+for+Assisting+Diaphragmatic+Breathing" target="_blank" rel="noopener noreferrer">Development of a wearable diaphragmatic breathing assistance device</a>
-- <a href="https://scholar.google.com/scholar?q=Universal+Joint+Orthosis+Assistive+and+Resistive+Movement+Device+for+Astronauts+and+Medical+Rehabilitation" target="_blank" rel="noopener noreferrer">Universal Joint Orthosis for assistive and resistive rehabilitation movement</a>
+**Languages:** Python · C/C++ · MATLAB\
+**Machine learning:** TensorFlow · Keras · scikit-learn · NumPy · Pandas\
+**Embedded & tooling:** Arduino · Linux · Git\
+**Clinical systems:** CT and PET-CT imaging · Hugo™ RAS robotics operations\
+**AI-assisted development:** Claude · Codex · Cursor · Gemini · Ollama
 
----
+## Collaboration
 
-## Now Building (2026)
-- Research prototypes in robotics plus clinical AI integration.
-- Quantum sensing ideas for medical signal detection and control.
-- Practical workflows using Claude, Codex, Cursor, Gemini, OpenClaw, and Ollama.
-
----
-
-## Collaboration and Contact
-Open to research collaborations, healthcare AI consulting, and robotics partnerships.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Open%20to-Research%20Collaboration-0a66c2?style=for-the-badge" alt="Open to Research Collaboration" />
-  <img src="https://img.shields.io/badge/Open%20to-Healthcare%20AI%20Consulting-1f6feb?style=for-the-badge" alt="Open to Healthcare AI Consulting" />
-  <img src="https://img.shields.io/badge/Open%20to-Robotics%20Partnerships-2563eb?style=for-the-badge" alt="Open to Robotics Partnerships" />
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nazmul87"><img src="https://img.shields.io/badge/LinkedIn-nazmul87-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://nazmul-research.github.io/"><img src="https://img.shields.io/badge/Website-Portfolio-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:nazmul87@gmail.com"><img src="https://img.shields.io/badge/Email-nazmul87%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+I am open to research collaborations, healthcare AI consulting, and robotics partnerships. The best way to reach me is by [email](mailto:nazmul87@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nazmul87).
